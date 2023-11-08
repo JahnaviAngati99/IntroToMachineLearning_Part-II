@@ -27,7 +27,7 @@ In our "Introduction to Machine Learning" assignment, we have undertaken a compr
 - Q9. Image classification with neural networks
 ​
 ## 3. Overview
-### [Probability practice](https://github.com/kkarthick12/STA380-Part-II/blob/main/Q1-Probability.ipynb)
+### [Probability practice](https://github.com/JahnaviAngati99/IntroToMachineLearning_Part-II/blob/main/Q1-Probability.ipynb)
 ​
 **Description:** 
 - For our analysis, we employed the Rule of Total Probability to deduce the fraction of truthful clickers responding "yes" in a website survey scenario (Part A). Subsequently, we harnessed Bayes' Theorem to assess the likelihood of a disease presence given a positive test result, considering both the test's sensitivity and the disease's prevalence (Part B).
